@@ -1,7 +1,4 @@
-![Capture9](https://github.com/FarkadAdnan/Project-28/assets/35774039/02cb11d3-1b47-4d94-8733-b8376e9eefde)
-![Uploading Capture8.PNG…]()
-![Uploading Capture7.PNG…]()
-![Uploading Capture6.PNG…]()
+
 # Project-28
 Chapter 1 code_Project_28 The Third part 3 of "The Arduino World Book" code_Project_24
 - code_Project_28
@@ -27,5 +24,17 @@ Chapter 1 code_Project_28 The Third part 3 of "The Arduino World Book" code_Proj
 
 
 https://www.thingiverse.com/thing:6094180
-![Uploading Capture5.PNG…]()
-![Uploading Capture4.PNG…]()
+
+
+
+
+ ![fa (5)](https://github.com/FarkadAdnan/Project-28/assets/35774039/f81c7fe7-20c4-4eef-94df-9e9ac442305a)
+ ![Capture9](https://github.com/FarkadAdnan/Project-28/assets/35774039/388a0187-2fe2-4a27-a3b1-aef1786910c8)
+ ![Capture7](https://github.com/FarkadAdnan/Project-28/assets/35774039/96b455b3-6597-4d77-b731-ba002d740315)
+ 
+![fa (1)](https://github.com/FarkadAdnan/Project-28/assets/35774039/40d840c5-3f26-408f-b37f-99fefd124e35)
+
+
+
+
+  
